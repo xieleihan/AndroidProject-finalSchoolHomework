@@ -27,7 +27,7 @@ Android项目:主要是完成学校期末大作业需要,符合学校的要求,�
 
 ## 编译
 
-本项目 Android 工程部分已编译为 apk 安装包，可直接在项目[发布页面](https://github.com/linyiLYi/pose-monitor/releases/tag/release)下载安装进行测试。如需进一步开发测试，可以在 Android Studio 中对安卓工程文件进行编译。
+本项目 Android 工程部分已编译为 apk 安装包，可直接在项目[发布页面](https://github.com/xieleihan/AndroidProject-finalSchoolHomework/releases)下载安装进行测试。如需进一步开发测试，可以在 Android Studio 中对安卓工程文件进行编译。
 
 ### 准备工作
 
